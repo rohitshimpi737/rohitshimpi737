@@ -89,13 +89,13 @@
 <p align="center">
 <a href="https://github.com/rohitshimpi737">
 <img align="center" alt="Rohit's Github stats"
-src="https://github-readme-stats-xi-rosy-19.vercel.app/api?username=reddevill007&show_icons=true&hide_border=true&count_private=true&bg_color=22272e&title_color=00ffff&text_color=ffffff&icon_color=ffffff"/>
+src="https://github-readme-stats-xi-rosy-19.vercel.app/api?username=rohitshimpi737&show_icons=true&hide_border=true&count_private=true&bg_color=22272e&title_color=00ffff&text_color=ffffff&icon_color=ffffff"/>
 </a>
    </p>
  <br>
   <p align="center"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=reddevill007&theme=onedark" alt="rohitshimpi737" /> 
+    <img src="https://github-profile-trophy.vercel.app/?username=rohitshimpi737&theme=onedark" alt="rohitshimpi737" /> 
   </a>
 </p>
  <br>
