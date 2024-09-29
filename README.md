@@ -2,8 +2,11 @@
   <img src="https://github.com/rohitshimpi737/rohitshimpi737/blob/main/profile%20image.png" alt="MasterHead" style="width:25%; max-width:60px; height:auto;">
 </a>
 
-[![MasterHead](https://github.com/rohitshimpi737/rohitshimpi737/blob/main/profile%20image.png
-)](https://rohitshimpi737.github.io/portfolio/)
+<div style="text-align: center;">
+  <a href="https://rohitshimpi737.github.io/portfolio/">
+    <img src="https://github.com/rohitshimpi737/rohitshimpi737/blob/main/profile%20image.png" alt="MasterHead" style="width:25%; max-width:60px; height:auto;">
+  </a>
+</div>
 
 # Hi there, I'm Rohit Shimpi !!! 👋
 [![Website](https://img.shields.io/website?label=PORTFOLIO&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://rohitshimpi737.github.io/portfolio/)
