@@ -15,7 +15,6 @@
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/rohitshimpi737?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
   <a href="https://github.com/rohitshimpi737?tab=followers">
   <img src="https://komarev.com/ghpvc/?username=rohitshimpi737&label=Profile%20views&color=0e75b6&style=flat" alt="rohitshimpi737" /> </a>
-  <a href="https://wakatime.com/@6272f51b-f805-4bdd-848f-e3a45d99fcf4"><img src="https://wakatime.com/badge/user/6272f51b-f805-4bdd-848f-e3a45d99fcf4.svg" alt="Total time coded since Nov 20 2022" /></a>
 </p>
 
 
@@ -112,7 +111,7 @@ src="https://github-readme-stats-xi-rosy-19.vercel.app/api?username=rohitshimpi7
   <h2 align="center">Frequently used Language 📺</h2>
 <p align="center">
   <a href="https://github.com/rohitshimpi737/github-readme-streak-stats">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=reddevill007&theme=dark&hide_border=true&background=22272e&stroke=0000"/>
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rohitshimpi737&theme=dark&hide_border=true&background=22272e&stroke=0000"/>
   </a>
  </p> 
 
