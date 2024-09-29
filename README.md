@@ -1,7 +1,3 @@
-<a href="https://rohitshimpi737.github.io/portfolio/">
-  <img src="https://github.com/rohitshimpi737/rohitshimpi737/blob/main/profile%20image.png" alt="MasterHead" style="width:25%; max-width:60px; height:auto;">
-</a>
-
 <div style="text-align: center;">
   <a href="https://rohitshimpi737.github.io/portfolio/">
     <img src="https://github.com/rohitshimpi737/rohitshimpi737/blob/main/profile%20image.png" alt="MasterHead" style="width:25%; max-width:60px; height:auto;">
