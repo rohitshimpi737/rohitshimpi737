@@ -1,3 +1,7 @@
+<a href="https://rohitshimpi737.github.io/portfolio/">
+  <img src="https://github.com/rohitshimpi737/rohitshimpi737/blob/main/profile%20image.png" alt="MasterHead" style="width:100%; max-width:600px; height:auto;">
+</a>
+
 [![MasterHead](https://github.com/rohitshimpi737/rohitshimpi737/blob/main/profile%20image.png
 )](https://rohitshimpi737.github.io/portfolio/)
 
