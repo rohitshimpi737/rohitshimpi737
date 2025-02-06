@@ -19,7 +19,7 @@
 
 
 
-# I'm a Student, Developer, and Freelancer!!!
+# I'm a Student, Developer!!!
 
 - 🌱 I’m currently learning everything 📝
 - 👨‍💻 Goals: Contribute more to Open Source projects 👨‍💻
