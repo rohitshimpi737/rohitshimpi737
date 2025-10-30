@@ -1,10 +1,14 @@
-<div style="text-align: center;">
+<!-- <div style="text-align: center;">
   <a href="https://rohitshimpi737.github.io/portfolio/">
     <img src="https://github.com/rohitshimpi737/rohitshimpi737/blob/main/profile%20image.png" alt="MasterHead" style="width:25%; max-width:60px; height:auto;">
   </a>
+</div> -->
+<div align="center">
+  <a href="https://rohitshimpi737.github.io/portfolio/">
+    <img src="https://github.com/rohitshimpi737/rohitshimpi737/blob/main/profile%20image.png" alt="Rohit Shimpi" width="120" height="120" style="border-radius:50%;">
+  </a>
 </div>
 
-# Hi there, I'm Rohit Shimpi !!! 👋
 <h1 align="center">Hi there, I'm <span style="color:#00ffff;">Rohit Shimpi 👋</span></h1>
 <h3 align="center">💻 Full Stack Developer | Java Spring Boot | MERN | Problem Solver</h3>
 
