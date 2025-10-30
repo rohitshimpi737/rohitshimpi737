@@ -1,8 +1,3 @@
-<!-- <div style="text-align: center;">
-  <a href="https://rohitshimpi737.github.io/portfolio/">
-    <img src="https://github.com/rohitshimpi737/rohitshimpi737/blob/main/profile%20image.png" alt="MasterHead" style="width:25%; max-width:60px; height:auto;">
-  </a>
-</div> -->
 <div align="center">
   <a href="https://rohitshimpi737.github.io/portfolio/">
     <img src="https://github.com/rohitshimpi737/rohitshimpi737/blob/main/profile%20image.png" alt="Rohit Shimpi" width="120" height="120" style="border-radius:50%;">
@@ -19,12 +14,22 @@
 </p>
 
 
-
 # I'm a Student, Developer!!!
 
 - 🌱 I’m currently learning everything 📝
 - 👨‍💻 Goals: Contribute more to Open Source projects 👨‍💻
 - ⚡ Fun fact: I love trekking 🧗‍♀️ and cricket 🏏
+
+---
+
+### 👨‍💻 About Me
+- 🎓 Final Year IT Student at **VIIT College, Pune**
+- 💼 Former Intern at **Infosys Springboard** (Java Backend) & **Kgamify** (Full Stack)
+- 🌱 Currently exploring **Next.js**, **Cloud Deployment**, and **System Design**
+- 🚀 Passionate about **building scalable web apps** and solving **real-world problems**
+- ⚡ Fun fact: I love trekking 🧗‍♀️ & cricket 🏏
+
+---
 
 ## Connect with me:
 [![Instagram](https://img.shields.io/badge/Rohit_Shimpi-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/rohit.shimpi.737/) 
