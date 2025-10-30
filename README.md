@@ -12,16 +12,10 @@
 <h1 align="center">Hi there, I'm <span style="color:#00ffff;">Rohit Shimpi 👋</span></h1>
 <h3 align="center">💻 Full Stack Developer | Java Spring Boot | MERN | Problem Solver</h3>
 
-[![Website](https://img.shields.io/website?label=PORTFOLIO&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://rohit-drab.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohit-shimpi-9940b0253/)
-[![Leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/S_Rohit7020/)
-<p align="left">
-  <a href="https://github.com/rohitshimpi737?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/rohitshimpi737"/></a>
-  <a href="https://github.com/rohitshimpi737?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/rohitshimpi737?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-  <a href="https://github.com/rohitshimpi737?tab=followers">
-  <img src="https://komarev.com/ghpvc/?username=rohitshimpi737&label=Profile%20views&color=0e75b6&style=flat" alt="rohitshimpi737" /> </a>
+<p align="center">
+  <a href="https://rohitshimpi737.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-%230077B5.svg?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/rohit-shimpi-9940b0253/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://leetcode.com/u/S_Rohit7020/"><img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
 </p>
 
 
