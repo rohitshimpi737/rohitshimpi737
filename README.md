@@ -107,5 +107,23 @@ src="https://github-readme-stats-xi-rosy-19.vercel.app/api?username=rohitshimpi7
 - [ECommerce-RESTFUL-API USING SPRINGBOOT](https://github.com/rohitshimpi737/ECommerce-RESTFUL-API) <br>
 [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=rohitshimpi737&repo=ECommerce-RESTFUL-API&theme=radical)](https://github.com/rohitshimpi737/ECommerce-RESTFUL-API)
 
-<img src="https://raw.githubusercontent.com/matfantinel/matfantinel/master/waves.svg" width="100%" height="150">
+---
 
+## 📫 Let's Connect!
+
+<p align="center">
+  <a href="https://rohitshimpi737.github.io/portfolio/">🌐 Portfolio</a> •
+  <a href="https://www.linkedin.com/in/rohit-shimpi-9940b0253/">💼 LinkedIn</a> •
+  <a href="https://leetcode.com/u/S_Rohit7020/">⚡ LeetCode</a> •
+  <a href="mailto:rohitshimpi737@gmail.com">📧 Email</a>
+</p>
+
+<div align="center">
+  
+  ![Visitors](https://komarev.com/ghpvc/?username=rohitshimpi737&color=blueviolet&style=flat)
+  
+  **Thanks for visiting!** ✨
+  
+</div>
+
+<img src="https://raw.githubusercontent.com/matfantinel/matfantinel/master/waves.svg" width="100%" height="150">
