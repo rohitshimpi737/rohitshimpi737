@@ -15,51 +15,52 @@
 
 ---
 
-### 👨‍💻 About Me
-- 🎓 Final Year **Information Technology** Student at **VIIT College, Pune**  
-- 💼 Experienced **Java Full Stack Developer** with hands-on expertise in **Spring Boot**, **Node.js**, **React**, and **Next.js**  
-- 🧩 Skilled in building **end-to-end web applications**, integrating **REST APIs**, and working with **Docker** for containerized deployment  
-- 🌱 Currently exploring **Cloud Deployment**, **System Design**, and **Microservices Architecture**  
-- 🚀 Passionate about developing **scalable and high-performance web solutions** that solve real-world problems  
-- ⚡ Fun fact: I love **trekking 🧗‍♀️**, **cricket 🏏**, and exploring **new tech stacks**  
+## 🚀 About Me
+
+<p>
+  🎓 Final Year <strong>Information Technology</strong> Student at <strong>VIIT College, Pune</strong><br>
+  💼 Experienced <strong>Java Full Stack Developer</strong> with expertise in Spring Boot, React, and Node.js<br>
+  🚀 Passionate about building <strong>scalable web applications</strong> and solving complex problems<br>
+  🌱 Currently exploring <strong>Cloud Technologies & Microservices Architecture</strong><br>
+  ⚡ Fun fact: Love <strong>trekking 🏔️</strong>, <strong>cricket 🏏</strong>, and exploring new tech stacks
+</p>
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 📋 Languages
+### 💻 Programming Languages
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0.svg?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0.svg?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C++](https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+### 🌐 Frontend Development
+![React](https://img.shields.io/badge/React-20232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-
-### 🧰 Frameworks and libraries
-
+### 🔧 Backend Development
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-6DA55F.svg?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000.svg?style=for-the-badge&logo=express&logoColor=white)
-![React](https://img.shields.io/badge/React-20232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-### 🗄️ Databases and cloud hosting
-
+### 🗄️ Databases
 ![MySQL](https://img.shields.io/badge/MySQL-005C84.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black)
 
-
-### 💻 IDEs/Editors
-
+### 🛠️ Tools & Platforms
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
 
+---
 
 <h2 align="center">My Github Statistics 🔥</h2>   
 <br>
