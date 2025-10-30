@@ -13,13 +13,6 @@
   <a href="https://leetcode.com/u/S_Rohit7020/"><img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
 </p>
 
-
-# I'm a Student, Developer!!!
-
-- 🌱 I’m currently learning everything 📝
-- 👨‍💻 Goals: Contribute more to Open Source projects 👨‍💻
-- ⚡ Fun fact: I love trekking 🧗‍♀️ and cricket 🏏
-
 ---
 
 ### 👨‍💻 About Me
