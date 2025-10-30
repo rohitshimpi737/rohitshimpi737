@@ -16,11 +16,12 @@
 ---
 
 ### 👨‍💻 About Me
-- 🎓 Final Year IT Student at **VIIT College, Pune**
-- 💼 Former Intern at **Infosys Springboard** (Java Backend) & **Kgamify** (Full Stack)
-- 🌱 Currently exploring **Next.js**, **Cloud Deployment**, and **System Design**
-- 🚀 Passionate about **building scalable web apps** and solving **real-world problems**
-- ⚡ Fun fact: I love trekking 🧗‍♀️ & cricket 🏏
+- 🎓 Final Year **Information Technology** Student at **VIIT College, Pune**  
+- 💼 Experienced **Java Full Stack Developer** with hands-on expertise in **Spring Boot**, **Node.js**, **React**, and **Next.js**  
+- 🧩 Skilled in building **end-to-end web applications**, integrating **REST APIs**, and working with **Docker** for containerized deployment  
+- 🌱 Currently exploring **Cloud Deployment**, **System Design**, and **Microservices Architecture**  
+- 🚀 Passionate about developing **scalable and high-performance web solutions** that solve real-world problems  
+- ⚡ Fun fact: I love **trekking 🧗‍♀️**, **cricket 🏏**, and exploring **new tech stacks**  
 
 ---
 
